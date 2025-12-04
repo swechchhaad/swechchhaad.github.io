@@ -19,4 +19,4 @@ I am also excited about questions in both theoretical and applied cryptography. 
 
 Due to certain influences in my life, my interests have also expanded into quantum information science and quantum algorithms.
 
-Note: If you are a college applicant reading this and want to reach out for application advice, I am probably not the best person for that. College applications were very overwhelming for me, and I do not feel especially qualified to answer such questions. However, if you are applying to BYU in particular (or have already been accepted), come say hi.
+Note: If you are a college applicant reading this and want to reach out, I am probably not the best person to seek advice from. College applications were very overwhelming for me, and I do not feel especially qualified to answer such questions. However, if you are applying to BYU in particular (or have already been accepted), come say hi.
