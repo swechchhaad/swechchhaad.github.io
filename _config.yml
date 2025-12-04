@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: blank # the web title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name
@@ -260,7 +260,7 @@ display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] #
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
-# Jekyll Scholar
+# Jekyll Scholar...
 # -----------------------------------------------------------------------------
 
 scholar:
