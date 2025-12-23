@@ -15,8 +15,8 @@ I am a mathematics major at Brigham Young University. My mathematical interests 
 
 Writing and talking mathematics is an important part of my job and something I am deeply passionate about. I have given many mathematical talks and presentations as well as written both expository and research papers. If you are interested in reading about my experiences giving talks at conferences, please refer to this page.
 
-I am also excited about questions in both theoretical and applied cryptography. I specifically work a lot on lattice-based methods that are known to be quantum-resistant. I will be joining Max Planck Institute for Security and Privacy (MPI-SP) in summer 2026 to work on applied post-quantum cryptography under the supervision of Dr. Peter Schwabe. 
+I am also excited about questions in both theoretical and applied cryptography. I specifically work a lot on lattice-based methods that are known to be quantum-resistant. I will be joining Max Planck Institute for Security and Privacy (MPI-SP) in summer 2026 to work on applied post-quantum cryptography under the supervision of Dr. Peter Schwabe. I will also be attending Real World Crypto 2026 in Taipei.
 
-Due to certain influences in my life, my interests have also expanded into quantum information science and quantum algorithms.
+Due to certain influences in my life, my academic interests have also expanded into quantum information science and quantum algorithms.
 
 Note: If you are a college applicant reading this and want to reach out, I am probably not the best person to seek advice from. College applications were very overwhelming for me, and I do not feel especially qualified to answer such questions. However, if you are applying to BYU in particular (or have already been accepted), come say hi.
