@@ -5,8 +5,7 @@
 title: blank # the web title (if blank, full name will be used instead)
 first_name: Swechchha
 last_name: Adhikari
-social:
-  linkedin: swechchhaad
+
 contact_note: >
   Contact: adhikar6@byu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
