@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
-social: true
+social: false
 ---
 
 I am a mathematics major at BYU. My mathematical interests mainly lie in algebra and subtopics, including algebraic geometry, algebraic topology, and algebraic number theory. I have worked on interesting problems in algebra under the guidance of my mentor, Dr. [Stephen McKean](https://shmckean.github.io/). You can read our most recent paper [here](https://arxiv.org/abs/2506.22897).
