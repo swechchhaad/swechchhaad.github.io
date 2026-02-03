@@ -21,3 +21,5 @@ In parallel, I work on large language models, AI, and multi-agent systems in [DR
 I am also excited about questions in both theoretical and applied cryptography. I specifically work a lot on lattice-based methods that are known to be quantum-resistant. I will be joining the Max Planck Institute for Security and Privacy (MPI-SP) in summer 2026 to work on applied post-quantum cryptography under the supervision of Dr. [Peter Schwabe](https://cryptojedi.org/peter/index.shtml).
 
 **Note**: I go by Sia in most academic settings.
+
+Contact: adhikar6@byu.edu | [LinkedIn]{https://www.linkedin.com/in/swechchhaa/}
