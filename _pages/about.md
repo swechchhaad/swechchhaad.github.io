@@ -21,4 +21,4 @@ I am also excited about questions in both theoretical and applied cryptography. 
 
 **Note**: I go by Sia in most academic settings.
 
-Contact: adhikar6@byu.edu | [LinkedIn]{https://www.linkedin.com/in/swechchhaa/}
+Contact: adhikar6@byu.edu | [LinkedIn](https://www.linkedin.com/in/swechchhaa/)
