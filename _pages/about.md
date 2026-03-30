@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  caption: "My first time in Boston for Tranksgiving 2025"
+  caption: "My first time in Boston for Thanksgiving 2025"
 
 social: false
 ---
