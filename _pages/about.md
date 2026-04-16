@@ -16,7 +16,7 @@ I am a mathematics major at BYU. My mathematical interests mainly lie in algebra
 
 <!-- Writing and talking mathematics is an important part of my job and something I am deeply passionate about. I have given many mathematical talks and presentations as well as written both expository and research papers. If you are interested in reading about my experiences giving talks at conferences, please refer to this page. -->
 
-In parallel, I work on large language models, AI, and multi-agent systems in [DRAGN Labs](https://dragn.ai/), where I am supervised by Dr. Nancy Fulda. I am a co-founder of [EduQuest](https://eduquestai.org/), an LLM-based personalized learning platform developed as part of our research on human-centered AI and multi-agent educational systems.
+In parallel, I work on large language models, AI, and multi-agent systems in [DRAGN Labs](https://dragn.ai/), where I am supervised by Dr. Nancy Fulda.
 
 I am also excited about questions in both theoretical and applied cryptography. I specifically work a lot on lattice-based methods that are known to be quantum-resistant. I will be joining the Max Planck Institute for Security and Privacy (MPI-SP) in summer 2026 to work on applied post-quantum cryptography under the supervision of Dr. [Peter Schwabe](https://cryptojedi.org/peter/index.shtml).
 
