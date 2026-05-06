@@ -22,4 +22,4 @@ In parallel, I work on large language models, AI, and multi-agent systems in [DR
 
 **Note**: I go by Sia in most academic settings.
 
-Contact: adhikar6@byu.edu | [LinkedIn](https://www.linkedin.com/in/swechchhaa/)
+Contact: swechchha@swechchhaa.com | [LinkedIn](https://www.linkedin.com/in/swechchhaa/)
