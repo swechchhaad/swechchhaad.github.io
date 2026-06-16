@@ -18,7 +18,7 @@ I’m interested in both theoretical and applied cryptography, with a particular
 
 <!-- Writing and talking mathematics is an important part of my job and something I am deeply passionate about. I have given many mathematical talks and presentations as well as written both expository and research papers. If you are interested in reading about my experiences giving talks at conferences, please refer to this page. -->
 
-In parallel, I work on large language models, AI, and multi-agent systems in [DRAGN Labs](https://dragn.ai/), where I am supervised by Dr. Nancy Fulda.
+In parallel, I work on large language models, AI, and multi-agent systems in [DRAGN Labs](https://dragn.ai/), where I am supervised by Dr. Nancy Fulda. Our short paper "Quest-ioning Teacher Agency in AI-Generated Instruction" will appear in proceedings of ACM SIGDOC 2026.
 
 **Note**: I go by Sia in most academic settings.
 
