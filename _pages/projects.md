@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: things I've built outside of research.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <style>
@@ -52,7 +52,7 @@ nav_order: 3
     <div class="proj-box">
       <h3>Lattice-Based Mixnet</h3>
       <div class="proj-meta">C · post-quantum cryptography</div>
-      <p>Implemented a post-quantum mixnet with the full Module-LWE decrypt-and-shuffle logic from scratch in C — a cryptographic protocol for anonymous routing used in private messaging, online voting, and censorship-resistant communication.</p>
+      <p>Implemented a post-quantum mixnet with the full Module-LWE decrypt-and-shuffle logic from scratch in C, a cryptographic protocol for anonymous routing used in private messaging, online voting, and censorship-resistant communication.</p>
       <div class="proj-links">
         <a href="https://github.com/swechchhaad/mixnet">Code</a>
       </div>
@@ -63,7 +63,7 @@ nav_order: 3
     <div class="proj-box">
       <h3>Lattice-Based Dynamic Accumulator</h3>
       <div class="proj-meta">Python · post-quantum cryptography</div>
-      <p>Implemented a post-quantum dynamic accumulator in Python — a cryptographic structure that enables privacy-preserving membership proofs used in anonymous credentials, revocation systems, and secure messaging. Supports additions, deletions, and witness updates under lattice-based hardness assumptions.</p>
+      <p>Implemented a post-quantum dynamic accumulator in Python, a cryptographic structure that enables privacy-preserving membership proofs used in anonymous credentials, revocation systems, and secure messaging. Supports additions, deletions, and witness updates under lattice-based hardness assumptions.</p>
       <div class="proj-links">
         <a href="https://github.com/swechchhaad/lattice-based-accum">Code</a>
       </div>
