@@ -13,4 +13,6 @@ Outside of academics, I enjoy cooking new food. I'm especially a big fan of East
 
 I also enjoy sad movies. My favorite is *Eternal Sunshine of the Spotless Mind*, which some people argue doesn't count as a "sad" movie. Another one I love is a Hindi-language film called *Barfi*.
 
-My friend and roommate [Shital](https://www.linkedin.com/in/shital-acharya-1a549436b) is also a security researcher.
+My dear friend and roommate [Shital](https://www.linkedin.com/in/shital-acharya-1a549436b) is also a security researcher.
+
+Lately I've also been interested in quantum computing, though that's a generous way of describing what is mostly me ambushing [Pritesh](https://www.linkedin.com/in/pritesh-thakur), who works in quantum error correction, with a new question about his work every single day. It really helps that he's remarkably patient.
