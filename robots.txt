@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://swechchhaad.github.io/sitemap.xml
+Sitemap: https://swechchhaa.com/sitemap.xml
