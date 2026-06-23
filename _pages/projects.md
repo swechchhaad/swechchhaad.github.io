@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research projects, papers, and code.
+description: my research projects, papers, and code.
 nav: true
 nav_order: 2
 ---
@@ -48,9 +48,9 @@ nav_order: 2
 
   <div class="col mb-4">
     <div class="proj-box">
-      <h3>Post-Quantum Cryptographic Engineering (ML-KEM)</h3>
-      <div class="proj-meta">MPI-SP · with Peter Schwabe &amp; Vadim Lyubashevsky · Apr 2026 – present</div>
-      <p>Designing and analyzing a novel noise distribution for ML-KEM at elevated security levels. Implemented formally-verifiable, constant-time AVX2 assembly in Jasmin — a 3–5× speedup over FrodoKEM at over 10× the security margin — and am porting it to OpenTitan's OTBN cryptographic accelerator.</p>
+      <h3>Evaluating ML-KEM at (much) higher security levels</h3>
+      <div class="proj-meta">MPI-SP · with Peter Schwabe &amp; Vadim Lyubashevsky · Apr 2026 – July 2026</div>
+      <p>Designing and analyzing a novel noise distribution for ML-KEM at elevated security levels. Currently implementing formally-verifiable, constant-time AVX2 assembly in Jasmin and benchmarking on multiple x86-64 hardware.</p>
       <div class="proj-links">
         <a href="https://github.com/cryptojedi/kaiburr">Code</a>
       </div>
@@ -61,7 +61,7 @@ nav_order: 2
     <div class="proj-box">
       <h3>Monogenic Fields of Cryptographic Size</h3>
       <div class="proj-meta">BYU · Ring-LWE / lattice-based cryptography</div>
-      <p>Explicit number-field constructions via polynomial transformations for Ring-LWE schemes. Designed and analyzed 300+ algebraic number fields in SageMath — computing discriminants, Galois groups, and ramification — to identify cryptographically secure parameters, with proofs of irreducibility and monogenicity.</p>
+      <p>Explicit number-field constructions via polynomial transformations for Ring-LWE schemes. Designed and analyzed algebraic number fields in SageMath — computing discriminants, Galois groups, and ramification — to identify cryptographically secure parameters, with proofs of irreducibility and monogenicity. Paper currently in final stages of preparation. </p>
       <div class="proj-links">
         <!-- TODO: add paper link when available -->
       </div>
@@ -71,10 +71,10 @@ nav_order: 2
   <div class="col mb-4">
     <div class="proj-box">
       <h3>Tolerants</h3>
-      <div class="proj-meta">BYU · algebraic number theory</div>
+      <div class="proj-meta">BYU · algebraic geometry/topology</div>
       <p>Developed the <em>tolerant</em>, a novel invariant that extends and strengthens classical discriminant theory. Proved a closed-form formula via discriminants and resultants — resolving an open question in prior work — and established its structural and algebraic properties.</p>
       <div class="proj-links">
-        <!-- TODO: add paper link (e.g. https://arxiv.org/abs/2506.22897 if applicable) -->
+        <a href="https://arxiv.org/abs/2506.22897">arXiv</a>
       </div>
     </div>
   </div>
