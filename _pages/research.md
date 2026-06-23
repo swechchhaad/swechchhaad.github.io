@@ -60,7 +60,7 @@ nav_order: 2
   <div class="col mb-4">
     <div class="proj-box">
       <h3>Monogenic Fields of Cryptographic Size</h3>
-      <div class="proj-meta">BYU · supervised by <a href="https://mathdept.byu.edu/~kpratt/">Kyle Pratt</a> &amp; <a href="https://mathdept.byu.edu/~nick/">Nick</a> · Ring-LWE / lattice-based cryptography</div>
+      <div class="proj-meta">BYU · supervised by <a href="https://mathdept.byu.edu/~kpratt/">Kyle Pratt</a> &amp; <a href="https://mathdept.byu.edu/~nick/">Nick Andersen</a> · Ring-LWE / lattice-based cryptography</div>
       <p>Explicit number-field constructions via polynomial transformations for Ring-LWE schemes. Designed and analyzed algebraic number fields in SageMath, computing discriminants, Galois groups, and ramification, to identify cryptographically secure parameters, with proofs of irreducibility and monogenicity. Paper currently in final stages of preparation. </p>
       <div class="proj-links">
         <!-- TODO: add paper link when available -->
@@ -89,9 +89,6 @@ nav_order: 2
       <h3>EduQuest — Personalized, Automated Instruction</h3>
       <div class="proj-meta"><a href="https://dragn.ai/">BYU DRAGN Labs</a> · advisor: Nancy Fulda</div>
       <p>A multi-agent LLM system that generates personalized, curriculum-aligned weekly homework by integrating vector-store retrieval, goal planning, and automated grading. Evaluated via an IRB-approved teacher focus group. Our short paper "Quest-ioning Teacher Agency in AI-Generated Instruction" will appear at ACM SIGDOC 2026.</p>
-      <div class="proj-links">
-        <a href="https://www.eduquestai.org/">Project Website</a>
-      </div>
     </div>
   </div>
 
