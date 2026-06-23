@@ -23,21 +23,19 @@ nav_order: 2
   }
   .research-grid .proj-head {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 0.75rem;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.6rem;
+    margin-bottom: 0.5rem;
   }
   .research-grid .proj-head h3 {
-    flex: 1 1 auto;
+    margin-bottom: 0;
   }
   .research-grid .proj-venue {
-    flex: 0 0 auto;
-    max-width: 45%;
-    text-align: right;
     font-size: 0.78rem;
     font-style: italic;
-    color: var(--global-text-color-light, #828282);
-    margin-top: 0.15rem;
+    color: var(--global-theme-color);
+    white-space: nowrap;
   }
   .research-grid .proj-box .proj-meta {
     color: var(--global-text-color-light, #828282);
@@ -108,7 +106,7 @@ nav_order: 2
   <div class="col mb-4">
     <div class="proj-box">
       <div class="proj-head">
-        <h3>EduQuest — Personalized, AI-Generated Instruction</h3>
+        <h3>EduQuest</h3>
         <span class="proj-venue">ACM SIGDOC proceedings, to appear, 2026</span>
       </div>
       <div class="proj-meta"><a href="https://dragn.ai/">BYU DRAGN Labs</a> · advisor: Nancy Fulda</div>

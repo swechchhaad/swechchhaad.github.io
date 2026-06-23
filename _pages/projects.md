@@ -74,7 +74,7 @@ nav_order: 4
     <div class="proj-box">
       <h3>PQMessenger</h3>
       <div class="proj-meta">Mentorship · ML-KEM + AES hybrid encryption</div>
-      <p>Mentored a team of six to build a hybrid post-quantum messaging prototype using ML-KEM for key encapsulation and AES for symmetric encryption (the same architecture used in iMessage and Signal); advised on protocol layering, key exchange design, and cryptographic API usage. Built during the <a href="https://uunchai.org/">Uunchai</a> mentoring program; my mentee <a href="https://www.shrijanpoudel.com.np/">Shrijan Poudel</a> and I wrote a paper on it.</p>
+      <p>Mentored a team of six to build a hybrid post-quantum messaging prototype using ML-KEM for key encapsulation and AES for symmetric encryption (the same architecture used in iMessage and Signal); advised on protocol layering, key exchange design, and cryptographic API usage. Built during the <a href="https://uunchai.org/">Uunchai</a> mentoring program; my mentee <a href="https://np.linkedin.com/in/slyther">Shrijan Poudel</a> and I wrote a paper on it.</p>
       <div class="proj-links">
         <a href="https://github.com/uunchaicrypto/pqmessenger">Code</a>
         <a href="{{ '/assets/pdf/pqmessenger.pdf' | relative_url }}" download>Paper (PDF)</a>
