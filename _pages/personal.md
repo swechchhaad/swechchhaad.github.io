@@ -15,4 +15,4 @@ I also enjoy sad movies. My favorite is *Eternal Sunshine of the Spotless Mind*,
 
 My dear friend and roommate [Shital](https://www.linkedin.com/in/shital-acharya-1a549436b) is also a security researcher.
 
-Lately I've also been interested in quantum computing, though that's a generous way of describing what is mostly me ambushing [Pritesh](https://www.linkedin.com/in/pritesh-thakur), who works in quantum error correction, with a new question about his work every single day. It really helps that he's remarkably patient.
+Lately I've also been interested in quantum computing, though that's a generous way of describing what is mostly me ambushing [Pritesh](https://www.linkedin.com/in/pritesh-thakur), who works in quantum error correction, with dumb questions about his work every single day. It really helps that he's remarkably patient.
