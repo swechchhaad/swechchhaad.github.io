@@ -43,7 +43,7 @@ nav_order: 2
 
 <div class="research-grid">
 
-<h2 class="area">Cryptography</h2>
+<h2 class="area">Algebra/Cryptography</h2>
 <div class="row row-cols-1 row-cols-md-2">
 
   <div class="col mb-4">
@@ -61,7 +61,7 @@ nav_order: 2
     <div class="proj-box">
       <h3>Monogenic Fields of Cryptographic Size</h3>
       <div class="proj-meta">BYU · Ring-LWE / lattice-based cryptography</div>
-      <p>Explicit number-field constructions via polynomial transformations for Ring-LWE schemes. Designed and analyzed algebraic number fields in SageMath — computing discriminants, Galois groups, and ramification — to identify cryptographically secure parameters, with proofs of irreducibility and monogenicity. Paper currently in final stages of preparation. </p>
+      <p>Explicit number-field constructions via polynomial transformations for Ring-LWE schemes. Designed and analyzed algebraic number fields in SageMath, computing discriminants, Galois groups, and ramification, to identify cryptographically secure parameters, with proofs of irreducibility and monogenicity. Paper currently in final stages of preparation. </p>
       <div class="proj-links">
         <!-- TODO: add paper link when available -->
       </div>
@@ -72,7 +72,7 @@ nav_order: 2
     <div class="proj-box">
       <h3>Tolerants</h3>
       <div class="proj-meta">BYU · algebraic geometry/topology</div>
-      <p>Developed the <em>tolerant</em>, a novel invariant that extends and strengthens classical discriminant theory. Proved a closed-form formula via discriminants and resultants — resolving an open question in prior work — and established its structural and algebraic properties.</p>
+      <p>Developed the <em>tolerant</em>, a novel invariant that extends and strengthens classical discriminant theory. Proved a closed-form formula via discriminants and resultants, resolved an open question in prior work, and established its structural and algebraic properties.</p>
       <div class="proj-links">
         <a href="https://arxiv.org/abs/2506.22897">arXiv</a>
       </div>
