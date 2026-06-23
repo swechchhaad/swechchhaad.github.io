@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-conferences",
+          title: "conferences",
+          description: "talks, posters, and workshops, with the support that made them possible.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "things I&#39;ve built outside of research.",
