@@ -21,6 +21,24 @@ nav_order: 2
     font-size: 1.15rem;
     font-weight: 600;
   }
+  .research-grid .proj-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  .research-grid .proj-head h3 {
+    flex: 1 1 auto;
+  }
+  .research-grid .proj-venue {
+    flex: 0 0 auto;
+    max-width: 45%;
+    text-align: right;
+    font-size: 0.78rem;
+    font-style: italic;
+    color: var(--global-text-color-light, #828282);
+    margin-top: 0.15rem;
+  }
   .research-grid .proj-box .proj-meta {
     color: var(--global-text-color-light, #828282);
     font-size: 0.85rem;
@@ -70,7 +88,10 @@ nav_order: 2
 
   <div class="col mb-4">
     <div class="proj-box">
-      <h3>Tolerants</h3>
+      <div class="proj-head">
+        <h3>Tolerants</h3>
+        <span class="proj-venue">PCMI proceedings, to appear, 2026</span>
+      </div>
       <div class="proj-meta">BYU · algebraic geometry/topology</div>
       <p>Developed the <em>tolerant</em>, a novel invariant that extends and strengthens classical discriminant theory. Proved a closed-form formula via discriminants and resultants, resolved an open question in prior work, and established its structural and algebraic properties.</p>
       <div class="proj-links">
@@ -86,9 +107,12 @@ nav_order: 2
 
   <div class="col mb-4">
     <div class="proj-box">
-      <h3>EduQuest — Personalized, Automated Instruction</h3>
+      <div class="proj-head">
+        <h3>EduQuest — Personalized, AI-Generated Instruction</h3>
+        <span class="proj-venue">ACM SIGDOC proceedings, to appear, 2026</span>
+      </div>
       <div class="proj-meta"><a href="https://dragn.ai/">BYU DRAGN Labs</a> · advisor: Nancy Fulda</div>
-      <p>A multi-agent LLM system that generates personalized, curriculum-aligned weekly homework by integrating vector-store retrieval, goal planning, and automated grading. Evaluated via an IRB-approved teacher focus group. Our short paper "Quest-ioning Teacher Agency in AI-Generated Instruction" will appear at ACM SIGDOC 2026.</p>
+      <p>A multi-agent LLM system that generates personalized, curriculum-aligned weekly homework by integrating vector-store retrieval, goal planning, and automated grading. Evaluated via an IRB-approved teacher focus group.</p>
     </div>
   </div>
 
