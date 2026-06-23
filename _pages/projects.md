@@ -41,7 +41,7 @@ nav_order: 4
   }
 </style>
 
-<p class="font-italic">These are personal and engineering projects only. For my research projects, papers, and code, please see the <a href="{{ '/research/' | relative_url }}">research page</a>.</p>
+<p class="font-italic">These are personal and engineering projects for learning purposes only. For my research projects, papers, and code, please see the <a href="{{ '/research/' | relative_url }}">research page</a>.</p>
 
 <div class="research-grid">
 
