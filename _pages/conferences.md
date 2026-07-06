@@ -57,21 +57,21 @@ nav_order: 3
 <h2>Contributed Talks</h2>
 <ul>
   <li>
-    <span class="venue">Spark(l)ing Science</span> — <span class="place">MPI-SP, Bochum, Germany</span> · <span class="date">June 2026</span>
+    <span class="venue">Spark(l)ing Science</span> — <span class="place">MPI-SP, Bochum, Germany</span> · <span class="date">June 2026</span> · <a href="{{ '/assets/pdf/talk_mpi.pdf' | relative_url }}">slides</a>
   </li>
   <li>
-    <span class="venue">MAA Intermountain Section Meeting</span> — <span class="place">Provo, UT</span> · <span class="date">March 2026</span>
+    <span class="venue">MAA Intermountain Section Meeting</span> — <span class="place">Provo, UT</span> · <span class="date">March 2026</span> · <a href="{{ '/assets/pdf/MAA.pdf' | relative_url }}">slides</a>
   </li>
   <li>
     <span class="venue">Student Research Conference</span> — <span class="place">Brigham Young University, Provo, UT</span> · <span class="date">February 2026</span>
     <ul class="sub">
-      <li>Constructing Monogenic Fields of Cryptographic Size</li>
+      <li>Constructing Monogenic Fields of Cryptographic Size · <a href="{{ '/assets/pdf/SRC.pdf' | relative_url }}">slides</a></li>
       <li>Informational Sufficiency in LLMs</li>
       <li>Teacher-Informed LLM-Based Framework for Personalized Education</li>
     </ul>
   </li>
   <li>
-    <span class="venue">Joint Mathematics Meetings</span> — <span class="place">Washington, D.C.</span> · <span class="date">January 2026</span>
+    <span class="venue">Joint Mathematics Meetings</span> — <span class="place">Washington, D.C.</span> · <span class="date">January 2026</span> · <a href="{{ '/assets/pdf/tolerants.pdf' | relative_url }}">slides</a>
     <div class="support">Supported by the NSF under Grant No. 2015553.</div>
   </li>
   <li>
@@ -98,11 +98,11 @@ nav_order: 3
     <span class="venue">ACM SIGDOC Student Research Competition</span> — <span class="place">St. Paul, MN</span> · <span class="date">October 2026</span> <span class="tag">(Incoming)</span>
   </li>
   <li>
-    <span class="venue">UIC Undergraduate Mathematics Symposium</span> — <span class="place">Chicago, IL</span> · <span class="date">November 2025</span>
+    <span class="venue">UIC Undergraduate Mathematics Symposium</span> — <span class="place">Chicago, IL</span> · <span class="date">November 2025</span> · <a href="{{ '/assets/pdf/UIC.pdf' | relative_url }}">poster</a>
     <div class="support">Supported by NSF RTG 2037569.</div>
   </li>
   <li>
-    <span class="venue">MAA MathFest</span> — <span class="place">Sacramento, CA</span> · <span class="date">August 2025</span>
+    <span class="venue">MAA MathFest</span> — <span class="place">Sacramento, CA</span> · <span class="date">August 2025</span> · <a href="{{ '/assets/pdf/Poster.pdf' | relative_url }}">poster</a>
   </li>
 </ul>
 
