@@ -72,7 +72,7 @@ nav_order: 3
   </li>
   <li>
     <span class="venue">Joint Mathematics Meetings</span> — <span class="place">Washington, D.C.</span> · <span class="date">January 2026</span> · <a href="{{ '/assets/pdf/tolerants.pdf' | relative_url }}">slides</a>
-    <div class="support">Supported by the NSF under Grant No. 2015553.</div>
+    <div class="support">Supported by the AMS grant under NSF 2015553.</div>
   </li>
   <li>
     <span class="venue">International Mathematics and Statistics Student Research Symposium</span> · <span class="date">April 2025</span> <span class="tag">(virtual)</span>
@@ -93,13 +93,14 @@ nav_order: 3
 <ul>
   <li>
     <span class="venue">MAA MathFest</span> — <span class="place">Boston, MA</span> · <span class="date">August 2026</span> <span class="tag">(Incoming)</span>
+    <div class="support">Supported by MAA student grant.</div>
   </li>
   <li>
     <span class="venue">ACM SIGDOC Student Research Competition</span> — <span class="place">St. Paul, MN</span> · <span class="date">October 2026</span> <span class="tag">(Incoming)</span>
   </li>
   <li>
     <span class="venue">UIC Undergraduate Mathematics Symposium</span> — <span class="place">Chicago, IL</span> · <span class="date">November 2025</span> · <a href="{{ '/assets/pdf/UIC.pdf' | relative_url }}">poster</a>
-    <div class="support">Supported by NSF RTG 2037569.</div>
+    <div class="support">Supported by travel grant under NSF RTG 2037569.</div>
   </li>
   <li>
     <span class="venue">MAA MathFest</span> — <span class="place">Sacramento, CA</span> · <span class="date">August 2025</span> · <a href="{{ '/assets/pdf/Poster.pdf' | relative_url }}">poster</a>
