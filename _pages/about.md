@@ -20,6 +20,6 @@ I’m interested in both theoretical and applied cryptography, with a particular
 
 In parallel, I work on large language models, AI, and multi-agent systems in [DRAGN Labs](https://dragn.ai/), where I am supervised by Dr. Nancy Fulda. Our short paper "Quest-ioning Teacher Agency in AI-Generated Instruction" will appear in proceedings of ACM SIGDOC 2026.
 
-**Note**: I go by Sia, while Swechchha is my legal name.
+**Note**: I go by Sia, while Swechchha is my legal name and appears in all my works.
 
 Contact: mail@swechchhaa.com | [LinkedIn](https://www.linkedin.com/in/swechchhaa/)
