@@ -12,11 +12,13 @@ profile:
 social: false
 ---
 
-I am a third-year undergraduate student of Mathematics at BYU.
+I am a senior at BYU studying Mathematics and Computer Science.
 
-I’m interested in both theoretical and applied post-quantum cryptography. My mathematical interests mainly lie in algebraic number theory, lattice theory, computational algebra, and commutative algebra, with applications to cryptography. You can read my most recent paper on [here](https://arxiv.org/abs/2506.22897). We're currently finishing up a paper for our project "Monogenic Fields of Cryptographic Size" which I am excited to talk about soon.
+I’m interested in both theoretical and applied post-quantum cryptography. Currently I am evaluating Utah's new State-Endorsed Digital Identity [(SEDI)](https://sedi.utah.gov/) framework from a cryptography and privacy perspective, under the supervision of [Dr. Kent Seamons](https://cs.byu.edu/department/directories/faculty-directory/kent-seamons/).
 
-Previously, I was a research intern at Max Planck Institute for Security and Privacy (MPI-SP) in cryptographic engineering, supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). I worked on evaluating ML-KEM at (much) higher security levels. On the implementation side, my interests include high-assurance and high-performance cryptographic implementations, as well as post-quantum privacy-preserving systems such as anonymous credentials.
+Previously, I was a research intern at Max Planck Institute for Security and Privacy (MPI-SP) in cryptographic engineering, supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). I worked on evaluating ML-KEM at (much) higher security levels.
+
+My mathematical interests mainly lie in algebraic number theory, lattices, computational algebra, and commutative algebra, with applications to cryptography. My most recent project involved constructing monogenic fields of cryptographic size via a palindromic polynomial transformation; we are currently preparing a manuscript. My first math paper is available [here](https://arxiv.org/abs/2506.22897).
 
 **Note**: I go by Sia, while Swechchha is my legal name and appears in all my works.
 
